@@ -18,4 +18,8 @@ If these worked fine, you should see the installed Python's version and "Require
 
 ## 2. Run Test Automation Script to Find a Fake Bar
 
-Run the findFakeBar.py to initiate test automation. This will launch a chrome browser and conduct weighings of gold bars until a fake one is detected. On your terminal, you'll be able to see the process of finding a fake bar.
+Run the findFakeBar.py to initiate test automation. This will launch a chrome browser and conduct weighings of gold bars until a fake one is detected. You'll able to see the process of finding a fake bar in the opened browser but aslo in your terminal.
+
+Terminal output example)
+
+![image](https://github.com/ellieko/test_automation/assets/70093034/63d868f2-2e27-489e-b0c1-089382dd079b)
