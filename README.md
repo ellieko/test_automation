@@ -7,8 +7,6 @@
 - Install Selenium: In terminal, "pip install selenium" (https://pypi.org/project/selenium/)
 - Download and install the appropriate version of Google Chrome from the official page, https://www.google.com/chrome/
 
-If these worked fine, you should see the installed Python's version and "Requirement already satisfied" from the below code block.
-
 ### 2. Download and Configure Chrome Web Driver
 - MacOS users who have installed "brew", simply run "brew install chromedriver" in terminal.
 - Others
